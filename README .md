@@ -1,7 +1,7 @@
 # Experiment 8: Creating Docker Images and Containers for Simple Applications
 
-- **Student Name**: Sharma Shubh
-- **USN**: 4NI25CS191
+- **Student Name**: Soham Patra
+- **USN**: 4NI25CS197
 - **Semester / Section**: 3rd Sem, Sec-G
 - **Course**: Collaborative Development and DevOps (1BCS303)
 - **Institution**: The National Institute of Engineering, Mysuru
